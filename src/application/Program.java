@@ -40,6 +40,7 @@ public class Program {
             System.out.println(e.getMessage());
         }
        
+        System.out.println("CÓDIGO OK!");
 
         sc.close();
     }
